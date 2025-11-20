@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.messenger.client.ChatClientTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-11-20T11:18:21.302Z" hostname="DESKTOP-AMGQNF9" time="0.261">
+  <properties/>
+  <testcase name="testClientInitialState()" classname="com.messenger.client.ChatClientTest" time="0.261"/>
+  <system-out><![CDATA[14:18:21.507 [Test worker] INFO  com.messenger.client.ChatClientTest - Running testClientInitialState
+14:18:21.538 [Test worker] INFO  com.messenger.client.ChatClientTest - testClientInitialState completed successfully
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

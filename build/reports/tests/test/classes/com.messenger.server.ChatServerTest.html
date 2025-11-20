@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge"/>
+<title>Test results - ChatServerTest</title>
+<link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<script src="../js/report.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="content">
+<h1>ChatServerTest</h1>
+<div class="breadcrumbs">
+<a href="../index.html">all</a> &gt; 
+<a href="../packages/com.messenger.server.html">com.messenger.server</a> &gt; ChatServerTest</div>
+<div id="summary">
+<table>
+<tr>
+<td>
+<div class="summaryGroup">
+<table>
+<tr>
+<td>
+<div class="infoBox" id="tests">
+<div class="counter">4</div>
+<p>tests</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="failures">
+<div class="counter">0</div>
+<p>failures</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="ignored">
+<div class="counter">0</div>
+<p>ignored</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="duration">
+<div class="counter">0.359s</div>
+<p>duration</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td>
+<div class="infoBox success" id="successRate">
+<div class="percent">100%</div>
+<p>successful</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="tab-container">
+<ul class="tabLinks">
+<li>
+<a href="#">Tests</a>
+</li>
+<li>
+<a href="#">Standard output</a>
+</li>
+</ul>
+<div class="tab">
+<h2>Tests</h2>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Duration</th>
+<th>Result</th>
+</tr>
+</thead>
+<tr>
+<td class="success">testAuthenticateInvalidUser()</td>
+<td class="success">0.216s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">testAuthenticateUser()</td>
+<td class="success">0.027s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">testRegisterDuplicateUser()</td>
+<td class="success">0.019s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">testRegisterUser()</td>
+<td class="success">0.097s</td>
+<td class="success">passed</td>
+</tr>
+</table>
+</div>
+<div class="tab">
+<h2>Standard output</h2>
+<span class="code">
+<pre>14:18:21.617 [Test worker] INFO  com.messenger.server.ChatServerTest - Setting up test environment
+14:18:21.788 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: General (Public)
+14:18:21.789 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Games (Public)
+14:18:21.791 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Movies (Public)
+14:18:21.793 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Music (Public)
+14:18:21.793 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Admin (Admin only)
+14:18:21.800 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Moderation (Admin only)
+14:18:21.801 [Test worker] INFO  com.messenger.server.LobbyManager - LobbyManager initialized with default lobbies
+14:18:21.816 [Test worker] INFO  com.messenger.server.ChatServer - Admin user created: admin/admin123
+14:18:21.818 [Test worker] INFO  com.messenger.server.ChatServerTest - Running testAuthenticateInvalidUser
+14:18:21.819 [Test worker] WARN  com.messenger.server.ChatServer - Authentication failed for user: nonexistent
+14:18:21.822 [Test worker] INFO  com.messenger.server.ChatServerTest - testAuthenticateInvalidUser completed successfully
+14:18:21.831 [Test worker] INFO  com.messenger.server.ChatServerTest - Setting up test environment
+14:18:21.831 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: General (Public)
+14:18:21.832 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Games (Public)
+14:18:21.832 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Movies (Public)
+14:18:21.832 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Music (Public)
+14:18:21.833 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Admin (Admin only)
+14:18:21.834 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Moderation (Admin only)
+14:18:21.836 [Test worker] INFO  com.messenger.server.LobbyManager - LobbyManager initialized with default lobbies
+14:18:21.836 [Test worker] INFO  com.messenger.server.ChatServer - Admin user created: admin/admin123
+14:18:21.837 [Test worker] INFO  com.messenger.server.ChatServerTest - Running testRegisterDuplicateUser
+14:18:21.837 [Test worker] INFO  com.messenger.server.ChatServer - New user registered: user
+14:18:21.840 [Test worker] WARN  com.messenger.server.ChatServer - Registration failed - user already exists: user
+14:18:21.846 [Test worker] INFO  com.messenger.server.ChatServerTest - testRegisterDuplicateUser completed successfully
+14:18:21.858 [Test worker] INFO  com.messenger.server.ChatServerTest - Setting up test environment
+14:18:21.859 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: General (Public)
+14:18:21.859 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Games (Public)
+14:18:21.933 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Movies (Public)
+14:18:21.937 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Music (Public)
+14:18:21.939 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Admin (Admin only)
+14:18:21.941 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Moderation (Admin only)
+14:18:21.942 [Test worker] INFO  com.messenger.server.LobbyManager - LobbyManager initialized with default lobbies
+14:18:21.946 [Test worker] INFO  com.messenger.server.ChatServer - Admin user created: admin/admin123
+14:18:21.947 [Test worker] INFO  com.messenger.server.ChatServerTest - Running testRegisterUser
+14:18:21.949 [Test worker] INFO  com.messenger.server.ChatServer - New user registered: newuser
+14:18:21.951 [Test worker] INFO  com.messenger.server.ChatServerTest - testRegisterUser completed successfully
+14:18:21.964 [Test worker] INFO  com.messenger.server.ChatServerTest - Setting up test environment
+14:18:21.966 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: General (Public)
+14:18:21.969 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Games (Public)
+14:18:21.970 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Movies (Public)
+14:18:21.971 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Music (Public)
+14:18:21.972 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Admin (Admin only)
+14:18:21.974 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Moderation (Admin only)
+14:18:21.975 [Test worker] INFO  com.messenger.server.LobbyManager - LobbyManager initialized with default lobbies
+14:18:21.976 [Test worker] INFO  com.messenger.server.ChatServer - Admin user created: admin/admin123
+14:18:21.979 [Test worker] INFO  com.messenger.server.ChatServerTest - Running testAuthenticateUser
+14:18:21.980 [Test worker] INFO  com.messenger.server.ChatServer - New user registered: authuser
+14:18:21.981 [Test worker] INFO  com.messenger.server.ChatServer - User authenticated: authuser
+14:18:21.988 [Test worker] INFO  com.messenger.server.ChatServerTest - testAuthenticateUser completed successfully
+</pre>
+</span>
+</div>
+</div>
+<div id="footer">
+<p>
+<div>
+<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines
+<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+</label>
+</div>Generated by 
+<a href="https://www.gradle.org">Gradle 8.14</a> at 20 нояб. 2025 г., 14:18:23</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,462 @@
+2025-11-20 14:18:21.507 [Test worker] INFO  com.messenger.client.ChatClientTest - Running testClientInitialState
+2025-11-20 14:18:21.538 [Test worker] INFO  com.messenger.client.ChatClientTest - testClientInitialState completed successfully
+2025-11-20 14:18:21.617 [Test worker] INFO  com.messenger.server.ChatServerTest - Setting up test environment
+2025-11-20 14:18:21.788 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: General (Public)
+2025-11-20 14:18:21.789 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Games (Public)
+2025-11-20 14:18:21.791 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Movies (Public)
+2025-11-20 14:18:21.793 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Music (Public)
+2025-11-20 14:18:21.793 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Admin (Admin only)
+2025-11-20 14:18:21.800 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Moderation (Admin only)
+2025-11-20 14:18:21.801 [Test worker] DEBUG com.messenger.server.LobbyManager - Default lobbies initialized
+2025-11-20 14:18:21.801 [Test worker] INFO  com.messenger.server.LobbyManager - LobbyManager initialized with default lobbies
+2025-11-20 14:18:21.816 [Test worker] INFO  com.messenger.server.ChatServer - Admin user created: admin/admin123
+2025-11-20 14:18:21.818 [Test worker] INFO  com.messenger.server.ChatServerTest - Running testAuthenticateInvalidUser
+2025-11-20 14:18:21.819 [Test worker] WARN  com.messenger.server.ChatServer - Authentication failed for user: nonexistent
+2025-11-20 14:18:21.822 [Test worker] INFO  com.messenger.server.ChatServerTest - testAuthenticateInvalidUser completed successfully
+2025-11-20 14:18:21.831 [Test worker] INFO  com.messenger.server.ChatServerTest - Setting up test environment
+2025-11-20 14:18:21.831 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: General (Public)
+2025-11-20 14:18:21.832 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Games (Public)
+2025-11-20 14:18:21.832 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Movies (Public)
+2025-11-20 14:18:21.832 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Music (Public)
+2025-11-20 14:18:21.833 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Admin (Admin only)
+2025-11-20 14:18:21.834 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Moderation (Admin only)
+2025-11-20 14:18:21.835 [Test worker] DEBUG com.messenger.server.LobbyManager - Default lobbies initialized
+2025-11-20 14:18:21.836 [Test worker] INFO  com.messenger.server.LobbyManager - LobbyManager initialized with default lobbies
+2025-11-20 14:18:21.836 [Test worker] INFO  com.messenger.server.ChatServer - Admin user created: admin/admin123
+2025-11-20 14:18:21.837 [Test worker] INFO  com.messenger.server.ChatServerTest - Running testRegisterDuplicateUser
+2025-11-20 14:18:21.837 [Test worker] INFO  com.messenger.server.ChatServer - New user registered: user
+2025-11-20 14:18:21.840 [Test worker] WARN  com.messenger.server.ChatServer - Registration failed - user already exists: user
+2025-11-20 14:18:21.846 [Test worker] INFO  com.messenger.server.ChatServerTest - testRegisterDuplicateUser completed successfully
+2025-11-20 14:18:21.858 [Test worker] INFO  com.messenger.server.ChatServerTest - Setting up test environment
+2025-11-20 14:18:21.859 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: General (Public)
+2025-11-20 14:18:21.859 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Games (Public)
+2025-11-20 14:18:21.933 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Movies (Public)
+2025-11-20 14:18:21.937 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Music (Public)
+2025-11-20 14:18:21.939 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Admin (Admin only)
+2025-11-20 14:18:21.941 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Moderation (Admin only)
+2025-11-20 14:18:21.942 [Test worker] DEBUG com.messenger.server.LobbyManager - Default lobbies initialized
+2025-11-20 14:18:21.942 [Test worker] INFO  com.messenger.server.LobbyManager - LobbyManager initialized with default lobbies
+2025-11-20 14:18:21.946 [Test worker] INFO  com.messenger.server.ChatServer - Admin user created: admin/admin123
+2025-11-20 14:18:21.947 [Test worker] INFO  com.messenger.server.ChatServerTest - Running testRegisterUser
+2025-11-20 14:18:21.949 [Test worker] INFO  com.messenger.server.ChatServer - New user registered: newuser
+2025-11-20 14:18:21.951 [Test worker] INFO  com.messenger.server.ChatServerTest - testRegisterUser completed successfully
+2025-11-20 14:18:21.964 [Test worker] INFO  com.messenger.server.ChatServerTest - Setting up test environment
+2025-11-20 14:18:21.966 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: General (Public)
+2025-11-20 14:18:21.969 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Games (Public)
+2025-11-20 14:18:21.970 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Movies (Public)
+2025-11-20 14:18:21.971 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Music (Public)
+2025-11-20 14:18:21.972 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Admin (Admin only)
+2025-11-20 14:18:21.974 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Moderation (Admin only)
+2025-11-20 14:18:21.974 [Test worker] DEBUG com.messenger.server.LobbyManager - Default lobbies initialized
+2025-11-20 14:18:21.975 [Test worker] INFO  com.messenger.server.LobbyManager - LobbyManager initialized with default lobbies
+2025-11-20 14:18:21.976 [Test worker] INFO  com.messenger.server.ChatServer - Admin user created: admin/admin123
+2025-11-20 14:18:21.979 [Test worker] INFO  com.messenger.server.ChatServerTest - Running testAuthenticateUser
+2025-11-20 14:18:21.980 [Test worker] INFO  com.messenger.server.ChatServer - New user registered: authuser
+2025-11-20 14:18:21.981 [Test worker] INFO  com.messenger.server.ChatServer - User authenticated: authuser
+2025-11-20 14:18:21.988 [Test worker] INFO  com.messenger.server.ChatServerTest - testAuthenticateUser completed successfully
+2025-11-20 14:18:22.013 [Test worker] INFO  com.messenger.server.LobbyManagerTest - Setting up LobbyManagerTest
+2025-11-20 14:18:22.025 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: General (Public)
+2025-11-20 14:18:22.027 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Games (Public)
+2025-11-20 14:18:22.031 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Movies (Public)
+2025-11-20 14:18:22.076 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Music (Public)
+2025-11-20 14:18:22.087 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Admin (Admin only)
+2025-11-20 14:18:22.091 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Moderation (Admin only)
+2025-11-20 14:18:22.092 [Test worker] DEBUG com.messenger.server.LobbyManager - Default lobbies initialized
+2025-11-20 14:18:22.093 [Test worker] INFO  com.messenger.server.LobbyManager - LobbyManager initialized with default lobbies
+2025-11-20 14:18:22.096 [Test worker] INFO  com.messenger.server.LobbyManagerTest - Running testGetAllowedLobbies
+2025-11-20 14:18:22.098 [Test worker] INFO  com.messenger.server.LobbyManagerTest - testGetAllowedLobbies completed successfully
+2025-11-20 14:18:22.116 [Test worker] INFO  com.messenger.server.LobbyManagerTest - Setting up LobbyManagerTest
+2025-11-20 14:18:22.116 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: General (Public)
+2025-11-20 14:18:22.117 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Games (Public)
+2025-11-20 14:18:22.117 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Movies (Public)
+2025-11-20 14:18:22.117 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Music (Public)
+2025-11-20 14:18:22.118 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Admin (Admin only)
+2025-11-20 14:18:22.118 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Moderation (Admin only)
+2025-11-20 14:18:22.118 [Test worker] DEBUG com.messenger.server.LobbyManager - Default lobbies initialized
+2025-11-20 14:18:22.118 [Test worker] INFO  com.messenger.server.LobbyManager - LobbyManager initialized with default lobbies
+2025-11-20 14:18:22.119 [Test worker] INFO  com.messenger.server.LobbyManagerTest - Running testGetLobbyUsers
+2025-11-20 14:18:22.119 [Test worker] DEBUG com.messenger.server.LobbyManager - User testuser left lobby: General
+2025-11-20 14:18:22.120 [Test worker] DEBUG com.messenger.server.LobbyManager - User testuser joined lobby: General
+2025-11-20 14:18:22.120 [Test worker] INFO  com.messenger.server.LobbyManagerTest - testGetLobbyUsers completed successfully
+2025-11-20 14:18:22.123 [Test worker] INFO  com.messenger.server.LobbyManagerTest - Setting up LobbyManagerTest
+2025-11-20 14:18:22.125 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: General (Public)
+2025-11-20 14:18:22.127 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Games (Public)
+2025-11-20 14:18:22.127 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Movies (Public)
+2025-11-20 14:18:22.128 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Music (Public)
+2025-11-20 14:18:22.129 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Admin (Admin only)
+2025-11-20 14:18:22.130 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Moderation (Admin only)
+2025-11-20 14:18:22.130 [Test worker] DEBUG com.messenger.server.LobbyManager - Default lobbies initialized
+2025-11-20 14:18:22.130 [Test worker] INFO  com.messenger.server.LobbyManager - LobbyManager initialized with default lobbies
+2025-11-20 14:18:22.131 [Test worker] INFO  com.messenger.server.LobbyManagerTest - Running testJoinAllowedLobby
+2025-11-20 14:18:22.132 [Test worker] DEBUG com.messenger.server.LobbyManager - User testuser left lobby: General
+2025-11-20 14:18:22.132 [Test worker] DEBUG com.messenger.server.LobbyManager - User testuser joined lobby: Games
+2025-11-20 14:18:22.133 [Test worker] INFO  com.messenger.server.LobbyManagerTest - testJoinAllowedLobby completed successfully
+2025-11-20 14:18:22.141 [Test worker] INFO  com.messenger.server.LobbyManagerTest - Setting up LobbyManagerTest
+2025-11-20 14:18:22.142 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: General (Public)
+2025-11-20 14:18:22.143 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Games (Public)
+2025-11-20 14:18:22.147 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Movies (Public)
+2025-11-20 14:18:22.148 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Music (Public)
+2025-11-20 14:18:22.149 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Admin (Admin only)
+2025-11-20 14:18:22.153 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Moderation (Admin only)
+2025-11-20 14:18:22.159 [Test worker] DEBUG com.messenger.server.LobbyManager - Default lobbies initialized
+2025-11-20 14:18:22.159 [Test worker] INFO  com.messenger.server.LobbyManager - LobbyManager initialized with default lobbies
+2025-11-20 14:18:22.160 [Test worker] INFO  com.messenger.server.LobbyManagerTest - Running testJoinNotAllowedLobby
+2025-11-20 14:18:22.161 [Test worker] WARN  com.messenger.server.LobbyManager - User testuser attempted to join non-existent lobby: InvalidLobby
+2025-11-20 14:18:22.195 [Test worker] INFO  com.messenger.server.LobbyManagerTest - testJoinNotAllowedLobby completed successfully
+2025-11-20 14:20:48.164 [main] INFO  com.messenger.Main - Messenger application starting with args: []
+2025-11-20 14:20:48.171 [main] INFO  com.messenger.Main - Starting client without arguments
+2025-11-20 14:20:48.221 [main] INFO  com.messenger.client.ClientGUI - Launching ClientGUI application
+2025-11-20 14:20:49.504 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - Starting ClientGUI application
+2025-11-20 14:20:49.505 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Setting up connection dialog
+2025-11-20 14:20:53.837 [main] INFO  com.messenger.Main - Messenger application shutdown
+2025-11-20 14:21:04.771 [main] INFO  com.messenger.Main - Messenger application starting with args: [server, 8080]
+2025-11-20 14:21:04.775 [main] INFO  com.messenger.Main - Starting server on custom port: 8080
+2025-11-20 14:21:04.778 [main] INFO  com.messenger.server.LobbyManager - Lobby added: General (Public)
+2025-11-20 14:21:04.778 [main] INFO  com.messenger.server.LobbyManager - Lobby added: Games (Public)
+2025-11-20 14:21:04.778 [main] INFO  com.messenger.server.LobbyManager - Lobby added: Movies (Public)
+2025-11-20 14:21:04.778 [main] INFO  com.messenger.server.LobbyManager - Lobby added: Music (Public)
+2025-11-20 14:21:04.779 [main] INFO  com.messenger.server.LobbyManager - Lobby added: Admin (Admin only)
+2025-11-20 14:21:04.779 [main] INFO  com.messenger.server.LobbyManager - Lobby added: Moderation (Admin only)
+2025-11-20 14:21:04.781 [main] DEBUG com.messenger.server.LobbyManager - Default lobbies initialized
+2025-11-20 14:21:04.782 [main] INFO  com.messenger.server.LobbyManager - LobbyManager initialized with default lobbies
+2025-11-20 14:21:04.785 [main] INFO  com.messenger.server.ChatServer - Admin user created: admin/admin123
+2025-11-20 14:21:04.810 [main] INFO  com.messenger.server.ChatServer - Chat server started on port 8080
+2025-11-20 14:21:04.812 [main] INFO  com.messenger.server.ChatServer - Available lobbies: [Moderation, Music, Games, General, Movies, Admin]
+2025-11-20 14:21:12.067 [main] INFO  com.messenger.Main - Messenger application starting with args: []
+2025-11-20 14:21:12.085 [main] INFO  com.messenger.Main - Starting client without arguments
+2025-11-20 14:21:12.129 [main] INFO  com.messenger.client.ClientGUI - Launching ClientGUI application
+2025-11-20 14:21:12.868 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - Starting ClientGUI application
+2025-11-20 14:21:12.870 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Setting up connection dialog
+2025-11-20 14:21:20.424 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - Connecting to server localhost:8080 as user artem
+2025-11-20 14:21:20.431 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Message listener set
+2025-11-20 14:21:20.432 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Attempting to connect to server localhost:8080
+2025-11-20 14:21:20.466 [main] INFO  com.messenger.server.ChatServer - New client connected. Total clients: 1
+2025-11-20 14:21:20.546 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Successfully connected to server
+2025-11-20 14:21:20.551 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Starting message listener thread
+2025-11-20 14:21:20.552 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Registering new user: artem
+2025-11-20 14:21:20.601 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: REGISTER
+2025-11-20 14:21:20.601 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Setting up main interface for user: artem
+2025-11-20 14:21:20.623 [Thread-0] INFO  com.messenger.server.ChatServer - New user registered: artem
+2025-11-20 14:21:20.649 [Thread-0] DEBUG com.messenger.server.LobbyManager - User artem left lobby: General
+2025-11-20 14:21:20.650 [Thread-0] DEBUG com.messenger.server.LobbyManager - User artem joined lobby: General
+2025-11-20 14:21:20.651 [Thread-0] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Moderation
+2025-11-20 14:21:20.651 [Thread-0] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Music
+2025-11-20 14:21:20.652 [Thread-0] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Games
+2025-11-20 14:21:20.659 [Thread-0] DEBUG com.messenger.server.ChatServer - Message broadcast to 1 users in lobby: General
+2025-11-20 14:21:20.660 [Thread-0] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Movies
+2025-11-20 14:21:20.661 [Thread-0] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Admin
+2025-11-20 14:21:20.661 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:21:20.665 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: MESSAGE
+2025-11-20 14:21:20.666 [Thread-0] DEBUG com.messenger.server.ChatServer - Message broadcast to 1 users in lobby: General
+2025-11-20 14:21:20.667 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: SUCCESS
+2025-11-20 14:21:20.975 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Requesting lobby list
+2025-11-20 14:21:20.976 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: LOBBY_LIST
+2025-11-20 14:21:20.977 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Requesting user list
+2025-11-20 14:21:20.979 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: USER_LIST
+2025-11-20 14:21:20.979 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Initial data requests sent
+2025-11-20 14:21:20.984 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: LOBBY_LIST
+2025-11-20 14:21:20.986 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:21:20.980 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - Successfully connected and set up main interface
+2025-11-20 14:21:21.067 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - Connection status: Connected
+2025-11-20 14:21:21.095 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:21:21.096 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:21:21.111 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: MESSAGE
+2025-11-20 14:21:21.115 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: SUCCESS
+2025-11-20 14:21:21.117 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: LOBBY_LIST
+2025-11-20 14:21:21.117 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating lobby list
+2025-11-20 14:21:21.119 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:21:21.120 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:21:35.779 [main] INFO  com.messenger.Main - Messenger application starting with args: []
+2025-11-20 14:21:35.784 [main] INFO  com.messenger.Main - Starting client without arguments
+2025-11-20 14:21:35.807 [main] INFO  com.messenger.client.ClientGUI - Launching ClientGUI application
+2025-11-20 14:21:36.563 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - Starting ClientGUI application
+2025-11-20 14:21:36.566 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Setting up connection dialog
+2025-11-20 14:21:42.312 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - Connecting to server localhost:8080 as user lol
+2025-11-20 14:21:42.322 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Message listener set
+2025-11-20 14:21:42.322 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Attempting to connect to server localhost:8080
+2025-11-20 14:21:42.592 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Successfully connected to server
+2025-11-20 14:21:42.601 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Starting message listener thread
+2025-11-20 14:21:42.602 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Registering new user: lol
+2025-11-20 14:21:42.647 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: REGISTER
+2025-11-20 14:21:42.647 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Setting up main interface for user: lol
+2025-11-20 14:21:42.566 [main] INFO  com.messenger.server.ChatServer - New client connected. Total clients: 2
+2025-11-20 14:21:42.662 [Thread-1] INFO  com.messenger.server.ChatServer - New user registered: lol
+2025-11-20 14:21:42.670 [Thread-1] DEBUG com.messenger.server.LobbyManager - User lol left lobby: General
+2025-11-20 14:21:42.671 [Thread-1] DEBUG com.messenger.server.LobbyManager - User lol joined lobby: General
+2025-11-20 14:21:42.675 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Moderation
+2025-11-20 14:21:42.675 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Music
+2025-11-20 14:21:42.677 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Games
+2025-11-20 14:21:42.679 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 2 users in lobby: General
+2025-11-20 14:21:42.679 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Movies
+2025-11-20 14:21:42.680 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Admin
+2025-11-20 14:21:42.682 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:21:42.684 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 2 users in lobby: General
+2025-11-20 14:21:42.684 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: MESSAGE
+2025-11-20 14:21:42.684 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: SUCCESS
+2025-11-20 14:21:42.715 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:21:42.737 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: MESSAGE
+2025-11-20 14:21:42.751 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:21:42.762 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:21:42.805 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: MESSAGE
+2025-11-20 14:21:43.052 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Requesting lobby list
+2025-11-20 14:21:43.053 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: LOBBY_LIST
+2025-11-20 14:21:43.053 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Requesting user list
+2025-11-20 14:21:43.054 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: USER_LIST
+2025-11-20 14:21:43.054 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Initial data requests sent
+2025-11-20 14:21:43.057 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: LOBBY_LIST
+2025-11-20 14:21:43.058 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:21:43.055 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - Successfully connected and set up main interface
+2025-11-20 14:21:43.146 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - Connection status: Connected
+2025-11-20 14:21:43.181 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:21:43.183 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:21:43.202 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: MESSAGE
+2025-11-20 14:21:43.208 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: SUCCESS
+2025-11-20 14:21:43.210 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: LOBBY_LIST
+2025-11-20 14:21:43.210 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating lobby list
+2025-11-20 14:21:43.213 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:21:43.213 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:21:46.525 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Joining lobby: Music
+2025-11-20 14:21:46.526 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: JOIN_LOBBY
+2025-11-20 14:21:46.527 [Thread-1] DEBUG com.messenger.server.LobbyManager - User lol left lobby: General
+2025-11-20 14:21:46.527 [Thread-1] DEBUG com.messenger.server.LobbyManager - User lol joined lobby: Music
+2025-11-20 14:21:46.528 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Requesting user list
+2025-11-20 14:21:46.528 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: USER_LIST
+2025-11-20 14:21:46.528 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - User lol joined lobby: Music
+2025-11-20 14:21:46.533 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: SUCCESS
+2025-11-20 14:21:46.533 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: SUCCESS
+2025-11-20 14:21:46.535 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:21:46.535 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 1 users in lobby: General
+2025-11-20 14:21:46.536 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:21:46.537 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:21:46.537 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:21:46.536 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 1 users in lobby: Music
+2025-11-20 14:21:46.538 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:21:46.538 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:21:46.564 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 1 users in lobby: Music
+2025-11-20 14:21:46.564 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: MESSAGE
+2025-11-20 14:21:46.565 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: MESSAGE
+2025-11-20 14:21:46.574 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:21:46.578 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:21:46.579 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:21:48.333 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Joining lobby: General
+2025-11-20 14:21:48.334 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: JOIN_LOBBY
+2025-11-20 14:21:48.334 [Thread-1] DEBUG com.messenger.server.LobbyManager - User lol left lobby: Music
+2025-11-20 14:21:48.335 [Thread-1] DEBUG com.messenger.server.LobbyManager - User lol joined lobby: General
+2025-11-20 14:21:48.335 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Requesting user list
+2025-11-20 14:21:48.335 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: USER_LIST
+2025-11-20 14:21:48.336 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: SUCCESS
+2025-11-20 14:21:48.336 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Music
+2025-11-20 14:21:48.337 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 2 users in lobby: General
+2025-11-20 14:21:48.338 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:21:48.338 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 2 users in lobby: General
+2025-11-20 14:21:48.339 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: MESSAGE
+2025-11-20 14:21:48.339 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Music
+2025-11-20 14:21:48.340 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:21:48.341 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:21:48.341 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: MESSAGE
+2025-11-20 14:21:48.342 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:21:48.342 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:21:48.343 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: MESSAGE
+2025-11-20 14:21:48.336 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - User lol joined lobby: General
+2025-11-20 14:21:48.346 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: SUCCESS
+2025-11-20 14:21:48.347 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:21:48.347 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:21:48.348 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: MESSAGE
+2025-11-20 14:21:48.349 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:21:48.349 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:21:50.923 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sending chat message to lobby 'General'
+2025-11-20 14:21:50.923 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: MESSAGE
+2025-11-20 14:21:50.924 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Message sent to lobby: General
+2025-11-20 14:21:50.924 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: MESSAGE
+2025-11-20 14:21:50.924 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 2 users in lobby: General
+2025-11-20 14:21:50.925 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: MESSAGE
+2025-11-20 14:21:50.925 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: MESSAGE
+2025-11-20 14:21:50.926 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: MESSAGE
+2025-11-20 14:22:03.208 [main] INFO  com.messenger.Main - Messenger application starting with args: []
+2025-11-20 14:22:03.215 [main] INFO  com.messenger.Main - Starting client without arguments
+2025-11-20 14:22:03.253 [main] INFO  com.messenger.client.ClientGUI - Launching ClientGUI application
+2025-11-20 14:22:03.827 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - Starting ClientGUI application
+2025-11-20 14:22:03.828 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Setting up connection dialog
+2025-11-20 14:22:15.161 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - Connecting to server localhost:8080 as user admin
+2025-11-20 14:22:15.164 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Message listener set
+2025-11-20 14:22:15.164 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Attempting to connect to server localhost:8080
+2025-11-20 14:22:15.289 [main] INFO  com.messenger.server.ChatServer - New client connected. Total clients: 3
+2025-11-20 14:22:15.317 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Successfully connected to server
+2025-11-20 14:22:15.323 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Starting message listener thread
+2025-11-20 14:22:15.324 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Logging in user: admin
+2025-11-20 14:22:15.360 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: LOGIN
+2025-11-20 14:22:15.361 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Setting up main interface for user: admin
+2025-11-20 14:22:15.382 [Thread-2] INFO  com.messenger.server.ChatServer - User authenticated: admin
+2025-11-20 14:22:15.384 [Thread-2] DEBUG com.messenger.server.LobbyManager - User admin left lobby: General
+2025-11-20 14:22:15.384 [Thread-2] DEBUG com.messenger.server.LobbyManager - User admin joined lobby: General
+2025-11-20 14:22:15.387 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Moderation
+2025-11-20 14:22:15.387 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Music
+2025-11-20 14:22:15.388 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Games
+2025-11-20 14:22:15.389 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 3 users in lobby: General
+2025-11-20 14:22:15.389 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Movies
+2025-11-20 14:22:15.389 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Admin
+2025-11-20 14:22:15.390 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:22:15.389 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: SUCCESS
+2025-11-20 14:22:15.394 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:22:15.395 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:22:15.396 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:22:15.395 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:22:15.406 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:22:15.406 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:22:15.439 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 3 users in lobby: General
+2025-11-20 14:22:15.445 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: MESSAGE
+2025-11-20 14:22:15.449 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: MESSAGE
+2025-11-20 14:22:15.469 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: MESSAGE
+2025-11-20 14:22:15.505 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: MESSAGE
+2025-11-20 14:22:15.507 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: MESSAGE
+2025-11-20 14:22:15.856 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Requesting lobby list
+2025-11-20 14:22:15.857 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: LOBBY_LIST
+2025-11-20 14:22:15.857 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Requesting user list
+2025-11-20 14:22:15.857 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: USER_LIST
+2025-11-20 14:22:15.857 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Initial data requests sent
+2025-11-20 14:22:15.867 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: LOBBY_LIST
+2025-11-20 14:22:15.869 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:22:15.858 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - Successfully connected and set up main interface
+2025-11-20 14:22:15.971 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - Connection status: Connected
+2025-11-20 14:22:16.099 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: SUCCESS
+2025-11-20 14:22:16.101 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - Admin privileges activated for user: admin
+2025-11-20 14:22:16.103 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:22:16.104 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:22:16.106 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: MESSAGE
+2025-11-20 14:22:16.115 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: LOBBY_LIST
+2025-11-20 14:22:16.115 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating lobby list
+2025-11-20 14:22:16.117 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:22:16.117 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:22:18.022 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Joining lobby: Admin
+2025-11-20 14:22:18.023 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: JOIN_LOBBY
+2025-11-20 14:22:18.023 [Thread-2] DEBUG com.messenger.server.LobbyManager - User admin left lobby: General
+2025-11-20 14:22:18.023 [Thread-2] DEBUG com.messenger.server.LobbyManager - User admin joined lobby: Admin
+2025-11-20 14:22:18.024 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Requesting user list
+2025-11-20 14:22:18.024 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: SUCCESS
+2025-11-20 14:22:18.024 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: USER_LIST
+2025-11-20 14:22:18.025 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 2 users in lobby: General
+2025-11-20 14:22:18.025 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:22:18.025 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 1 users in lobby: Admin
+2025-11-20 14:22:18.026 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:22:18.028 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: MESSAGE
+2025-11-20 14:22:18.028 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 1 users in lobby: Admin
+2025-11-20 14:22:18.027 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:22:18.029 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:22:18.029 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:22:18.029 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:22:18.029 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:22:18.024 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - User admin joined lobby: Admin
+2025-11-20 14:22:18.033 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: SUCCESS
+2025-11-20 14:22:18.034 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:22:18.034 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:22:18.035 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: MESSAGE
+2025-11-20 14:22:18.050 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:22:18.057 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:22:18.057 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:22:19.477 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Joining lobby: Moderation
+2025-11-20 14:22:19.478 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: JOIN_LOBBY
+2025-11-20 14:22:19.478 [Thread-2] DEBUG com.messenger.server.LobbyManager - User admin left lobby: Admin
+2025-11-20 14:22:19.478 [Thread-2] DEBUG com.messenger.server.LobbyManager - User admin joined lobby: Moderation
+2025-11-20 14:22:19.479 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Requesting user list
+2025-11-20 14:22:19.479 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: USER_LIST
+2025-11-20 14:22:19.479 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: SUCCESS
+2025-11-20 14:22:19.480 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Admin
+2025-11-20 14:22:19.480 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 1 users in lobby: Moderation
+2025-11-20 14:22:19.481 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:22:19.481 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 1 users in lobby: Moderation
+2025-11-20 14:22:19.482 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Admin
+2025-11-20 14:22:19.482 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: MESSAGE
+2025-11-20 14:22:19.483 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:22:19.479 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - User admin joined lobby: Moderation
+2025-11-20 14:22:19.485 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: SUCCESS
+2025-11-20 14:22:19.487 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:22:19.487 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:22:19.489 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: MESSAGE
+2025-11-20 14:22:19.491 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:22:19.491 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:22:20.374 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Joining lobby: Games
+2025-11-20 14:22:20.375 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: JOIN_LOBBY
+2025-11-20 14:22:20.375 [Thread-2] DEBUG com.messenger.server.LobbyManager - User admin left lobby: Moderation
+2025-11-20 14:22:20.375 [Thread-2] DEBUG com.messenger.server.LobbyManager - User admin joined lobby: Games
+2025-11-20 14:22:20.375 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Requesting user list
+2025-11-20 14:22:20.376 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: USER_LIST
+2025-11-20 14:22:20.376 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Moderation
+2025-11-20 14:22:20.376 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: SUCCESS
+2025-11-20 14:22:20.376 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - User admin joined lobby: Games
+2025-11-20 14:22:20.377 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 1 users in lobby: Games
+2025-11-20 14:22:20.377 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:22:20.377 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 1 users in lobby: Games
+2025-11-20 14:22:20.378 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: SUCCESS
+2025-11-20 14:22:20.379 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: MESSAGE
+2025-11-20 14:22:20.379 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Moderation
+2025-11-20 14:22:20.379 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:22:20.379 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:22:20.380 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: MESSAGE
+2025-11-20 14:22:20.380 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:22:20.382 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:22:20.382 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:22:21.574 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - Application closing, disconnecting from server
+2025-11-20 14:22:21.651 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Disconnecting from server
+2025-11-20 14:22:21.664 [Thread-2] DEBUG com.messenger.server.LobbyManager - User admin left lobby: Games
+2025-11-20 14:22:21.659 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Successfully disconnected from server
+2025-11-20 14:22:21.665 [Thread-2] INFO  com.messenger.server.ChatServer - Client disconnected. Total clients: 2
+2025-11-20 14:22:22.201 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Moderation
+2025-11-20 14:22:22.202 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Music
+2025-11-20 14:22:22.202 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Games
+2025-11-20 14:22:22.002 [JavaFX Application Thread] WARN  com.messenger.client.ClientGUI - Connection status: Disconnected
+2025-11-20 14:22:22.353 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:22:22.356 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:22:22.357 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 2 users in lobby: General
+2025-11-20 14:22:22.360 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Movies
+2025-11-20 14:22:22.362 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Admin
+2025-11-20 14:22:22.362 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:22:22.363 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:22:22.363 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:22:22.364 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:22:22.319 [main] INFO  com.messenger.Main - Messenger application shutdown
+2025-11-20 14:22:22.475 [Thread-2] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Games
+2025-11-20 14:22:24.079 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Joining lobby: Admin
+2025-11-20 14:22:24.089 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: JOIN_LOBBY
+2025-11-20 14:22:24.090 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Requesting user list
+2025-11-20 14:22:24.091 [JavaFX Application Thread] DEBUG com.messenger.client.ChatClient - Sent message to server: USER_LIST
+2025-11-20 14:22:24.091 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - User lol joined lobby: Admin
+2025-11-20 14:22:24.120 [Thread-1] WARN  com.messenger.server.LobbyManager - Non-admin user lol attempted to join admin-only lobby: Admin
+2025-11-20 14:22:24.127 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: ERROR
+2025-11-20 14:22:24.127 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: ERROR
+2025-11-20 14:22:24.131 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:22:24.136 [JavaFX Application Thread] WARN  com.messenger.client.ClientGUI - Error message received: Admin access required for lobby: Admin
+2025-11-20 14:22:24.149 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:22:24.149 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:22:25.925 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - Application closing, disconnecting from server
+2025-11-20 14:22:25.934 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Disconnecting from server
+2025-11-20 14:22:25.939 [Thread-1] DEBUG com.messenger.server.LobbyManager - User lol left lobby: General
+2025-11-20 14:22:25.939 [Thread-1] INFO  com.messenger.server.ChatServer - Client disconnected. Total clients: 1
+2025-11-20 14:22:25.954 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Moderation
+2025-11-20 14:22:25.954 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Music
+2025-11-20 14:22:25.955 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Games
+2025-11-20 14:22:25.939 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Successfully disconnected from server
+2025-11-20 14:22:26.083 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 1 users in lobby: General
+2025-11-20 14:22:26.091 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Movies
+2025-11-20 14:22:26.099 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Admin
+2025-11-20 14:22:26.115 [Thread-1] DEBUG com.messenger.server.ChatServer - Message broadcast to 1 users in lobby: General
+2025-11-20 14:22:26.268 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: USER_LIST
+2025-11-20 14:22:26.276 [Thread-3] DEBUG com.messenger.client.ChatClient - Received message from server: MESSAGE
+2025-11-20 14:22:26.279 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: USER_LIST
+2025-11-20 14:22:26.279 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Updating user list
+2025-11-20 14:22:26.280 [JavaFX Application Thread] DEBUG com.messenger.client.ClientGUI - Handling incoming message type: MESSAGE
+2025-11-20 14:22:26.306 [JavaFX Application Thread] WARN  com.messenger.client.ClientGUI - Connection status: Disconnected
+2025-11-20 14:22:26.348 [main] INFO  com.messenger.Main - Messenger application shutdown
+2025-11-20 14:22:29.191 [JavaFX Application Thread] INFO  com.messenger.client.ClientGUI - Application closing, disconnecting from server
+2025-11-20 14:22:29.206 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Disconnecting from server
+2025-11-20 14:22:29.233 [Thread-0] DEBUG com.messenger.server.LobbyManager - User artem left lobby: General
+2025-11-20 14:22:29.234 [Thread-0] INFO  com.messenger.server.ChatServer - Client disconnected. Total clients: 0
+2025-11-20 14:22:29.234 [JavaFX Application Thread] INFO  com.messenger.client.ChatClient - Successfully disconnected from server
+2025-11-20 14:22:29.248 [Thread-0] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Moderation
+2025-11-20 14:22:29.249 [Thread-0] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Music
+2025-11-20 14:22:29.249 [Thread-0] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Games
+2025-11-20 14:22:29.250 [Thread-0] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: General
+2025-11-20 14:22:29.252 [Thread-0] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Movies
+2025-11-20 14:22:29.254 [Thread-0] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: Admin
+2025-11-20 14:22:29.256 [Thread-0] DEBUG com.messenger.server.ChatServer - Message broadcast to 0 users in lobby: General
+2025-11-20 14:22:29.488 [JavaFX Application Thread] WARN  com.messenger.client.ClientGUI - Connection status: Disconnected
+2025-11-20 14:22:29.601 [main] INFO  com.messenger.Main - Messenger application shutdown

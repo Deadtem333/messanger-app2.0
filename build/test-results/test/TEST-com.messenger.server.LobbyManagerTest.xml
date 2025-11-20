@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.messenger.server.LobbyManagerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-11-20T11:18:22.009Z" hostname="DESKTOP-AMGQNF9" time="0.19">
+  <properties/>
+  <testcase name="testGetAllowedLobbies()" classname="com.messenger.server.LobbyManagerTest" time="0.096"/>
+  <testcase name="testGetLobbyUsers()" classname="com.messenger.server.LobbyManagerTest" time="0.008"/>
+  <testcase name="testJoinAllowedLobby()" classname="com.messenger.server.LobbyManagerTest" time="0.012"/>
+  <testcase name="testJoinNotAllowedLobby()" classname="com.messenger.server.LobbyManagerTest" time="0.06"/>
+  <system-out><![CDATA[14:18:22.013 [Test worker] INFO  com.messenger.server.LobbyManagerTest - Setting up LobbyManagerTest
+14:18:22.025 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: General (Public)
+14:18:22.027 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Games (Public)
+14:18:22.031 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Movies (Public)
+14:18:22.076 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Music (Public)
+14:18:22.087 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Admin (Admin only)
+14:18:22.091 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Moderation (Admin only)
+14:18:22.093 [Test worker] INFO  com.messenger.server.LobbyManager - LobbyManager initialized with default lobbies
+14:18:22.096 [Test worker] INFO  com.messenger.server.LobbyManagerTest - Running testGetAllowedLobbies
+14:18:22.098 [Test worker] INFO  com.messenger.server.LobbyManagerTest - testGetAllowedLobbies completed successfully
+14:18:22.116 [Test worker] INFO  com.messenger.server.LobbyManagerTest - Setting up LobbyManagerTest
+14:18:22.116 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: General (Public)
+14:18:22.117 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Games (Public)
+14:18:22.117 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Movies (Public)
+14:18:22.117 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Music (Public)
+14:18:22.118 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Admin (Admin only)
+14:18:22.118 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Moderation (Admin only)
+14:18:22.118 [Test worker] INFO  com.messenger.server.LobbyManager - LobbyManager initialized with default lobbies
+14:18:22.119 [Test worker] INFO  com.messenger.server.LobbyManagerTest - Running testGetLobbyUsers
+14:18:22.120 [Test worker] INFO  com.messenger.server.LobbyManagerTest - testGetLobbyUsers completed successfully
+14:18:22.123 [Test worker] INFO  com.messenger.server.LobbyManagerTest - Setting up LobbyManagerTest
+14:18:22.125 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: General (Public)
+14:18:22.127 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Games (Public)
+14:18:22.127 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Movies (Public)
+14:18:22.128 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Music (Public)
+14:18:22.129 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Admin (Admin only)
+14:18:22.130 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Moderation (Admin only)
+14:18:22.130 [Test worker] INFO  com.messenger.server.LobbyManager - LobbyManager initialized with default lobbies
+14:18:22.131 [Test worker] INFO  com.messenger.server.LobbyManagerTest - Running testJoinAllowedLobby
+14:18:22.133 [Test worker] INFO  com.messenger.server.LobbyManagerTest - testJoinAllowedLobby completed successfully
+14:18:22.141 [Test worker] INFO  com.messenger.server.LobbyManagerTest - Setting up LobbyManagerTest
+14:18:22.142 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: General (Public)
+14:18:22.143 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Games (Public)
+14:18:22.147 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Movies (Public)
+14:18:22.148 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Music (Public)
+14:18:22.149 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Admin (Admin only)
+14:18:22.153 [Test worker] INFO  com.messenger.server.LobbyManager - Lobby added: Moderation (Admin only)
+14:18:22.159 [Test worker] INFO  com.messenger.server.LobbyManager - LobbyManager initialized with default lobbies
+14:18:22.160 [Test worker] INFO  com.messenger.server.LobbyManagerTest - Running testJoinNotAllowedLobby
+14:18:22.161 [Test worker] WARN  com.messenger.server.LobbyManager - User testuser attempted to join non-existent lobby: InvalidLobby
+14:18:22.195 [Test worker] INFO  com.messenger.server.LobbyManagerTest - testJoinNotAllowedLobby completed successfully
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

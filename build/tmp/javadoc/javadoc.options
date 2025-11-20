@@ -1,0 +1,23 @@
+-author 
+-charset 'UTF-8'
+-classpath 'C:\\Users\\artem\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-fxml\\17.0.6\\5724aedc415683e62eeab3a3875550aa814c84fd\\javafx-fxml-17.0.6-win.jar;C:\\Users\\artem\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-fxml\\17.0.6\\f688c9bb17dfe750c38b6f2e40ce7ce2b4724278\\javafx-fxml-17.0.6.jar;C:\\Users\\artem\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-controls\\17.0.6\\c95b460be3bc372060ff32d0c666c1233c3e8400\\javafx-controls-17.0.6-win.jar;C:\\Users\\artem\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-controls\\17.0.6\\8a9b91d717ec8bcdb179b91ae8a4f1137756fe3a\\javafx-controls-17.0.6.jar;C:\\Users\\artem\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-graphics\\17.0.6\\14326bf575b927d3c31a775f74bcf754ced35353\\javafx-graphics-17.0.6-win.jar;C:\\Users\\artem\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-graphics\\17.0.6\\a71a20fc765c578c17e6bd6525c029b03286ff5e\\javafx-graphics-17.0.6.jar;C:\\Users\\artem\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-base\\17.0.6\\78ccb38688b70acc6b59718daca8bdb91f99db57\\javafx-base-17.0.6-win.jar;C:\\Users\\artem\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-base\\17.0.6\\808b77ecf79be87b304a78fa9fffad805bfdb9f5\\javafx-base-17.0.6.jar;C:\\Users\\artem\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.logging.log4j\\log4j-core\\2.20.0\\eb2a9a47b1396e00b5eee1264296729a70565cc0\\log4j-core-2.20.0.jar;C:\\Users\\artem\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.logging.log4j\\log4j-api\\2.20.0\\1fe6082e660daf07c689a89c94dc0f49c26b44bb\\log4j-api-2.20.0.jar'
+-d 'C:\\Users\\artem\\IdeaProjects\\messanger-app\\build\\docs\\javadoc'
+-doctitle 'messanger-app 1.0.0 API'
+-encoding 'UTF-8'
+-html5 
+-link 'https://docs.oracle.com/en/java/javase/17/docs/api/'
+-public 
+-notimestamp 
+-quiet 
+-version 
+-windowtitle 'messanger-app 1.0.0 API'
+'C:\\Users\\artem\\IdeaProjects\\messanger-app\\src\\main\\java\\com\\messenger\\client\\ChatClient.java'
+'C:\\Users\\artem\\IdeaProjects\\messanger-app\\src\\main\\java\\com\\messenger\\client\\ClientGUI.java'
+'C:\\Users\\artem\\IdeaProjects\\messanger-app\\src\\main\\java\\com\\messenger\\common\\Message.java'
+'C:\\Users\\artem\\IdeaProjects\\messanger-app\\src\\main\\java\\com\\messenger\\common\\MessageType.java'
+'C:\\Users\\artem\\IdeaProjects\\messanger-app\\src\\main\\java\\com\\messenger\\common\\User.java'
+'C:\\Users\\artem\\IdeaProjects\\messanger-app\\src\\main\\java\\com\\messenger\\Main.java'
+'C:\\Users\\artem\\IdeaProjects\\messanger-app\\src\\main\\java\\com\\messenger\\server\\ChatServer.java'
+'C:\\Users\\artem\\IdeaProjects\\messanger-app\\src\\main\\java\\com\\messenger\\server\\ClientHandler.java'
+'C:\\Users\\artem\\IdeaProjects\\messanger-app\\src\\main\\java\\com\\messenger\\server\\LobbyManager.java'
+'C:\\Users\\artem\\IdeaProjects\\messanger-app\\src\\main\\java\\org\\example\\Main.java'
